@@ -3,6 +3,8 @@
 
 This project analyzes employee productivity in a garment manufacturing setting using machine learning techniques. Implemented in **Google Colab**, it applies **Decision Tree** and **Random Forest** models, validated through **Cross-Validation**, to predict actual productivity based on operational and behavioral features.
 
+##(Live Demo0[https://youtu.be/nsJjcOGfSFE?si=b8NbYxxL8tQV_Lkb]
+
 ## 🎯 Objectives
 
 - Explore and preprocess real-world productivity data.
