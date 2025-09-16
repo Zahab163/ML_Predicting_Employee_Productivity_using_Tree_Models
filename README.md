@@ -14,14 +14,6 @@ This project analyzes employee productivity in a garment manufacturing setting u
 ## 📁 Project Structure
 ├── employee_productivity.ipynb   # Main Colab notebook ├── employee_productivity.csv     # Dataset (uploaded manually or via Google Drive) ├── README.md                     # Project documentation
 
-## 📊 Dataset Features & Descriptions
-
-The dataset captures daily operational data from garment manufacturing teams. Each row represents a team's performance on a given day. Below are the features included:
-
-| Feature Name             | Description                                                                 |
-|--------------------------|----------
-
-
 
 ## 🎯 Objectives
 
